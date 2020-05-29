@@ -47,4 +47,10 @@ To be decided
 
 To be decided
 
+## Interfacing
+
+![Udoo Interface](/udoo_interface.jpg)
+
+
+
 
